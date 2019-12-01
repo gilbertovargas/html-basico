@@ -2,8 +2,11 @@
 Taller Introductorio al lenguaje HTML. Tutorial Básico.
 
 Materia base: Introducción a la Informática.
+
 Programa: Ingeniería de Sistemas y Computación.
+
 Facultad: Ingenierías.
+
 Universidad: Tecnológica de Pereira.
 
 DOCUMENTOS:
