@@ -23,12 +23,12 @@ DOCUMENTOS:
 10. avion-ficcion.gif   Archivos GIF (animado)
 11. baloncesto.gif
 
-| Ítem   | Centro               | Derecha |
-| ------ |:-------------------- | -------:|
-| 01     | HTML - Básico.pdf    |   $1600 |
-| 02     | programa001.html     |     $12 |
-| 03     | prograam002.html     |      $1 |
-| 04     | programa003.html     |      $1 |
+| Ítem   | Documento            | Descripción                                             |
+| ------ |:-------------------- |:------------------------------------------------------- |
+| 01     | HTML - Básico.pdf    | Tutorial que debe seguirse para desarrollar el tutorial |
+| 02     | programa001.html     | Primer código fuente utilizado en el tutorial           |
+| 03     | prograam002.html     | Segundo código fuente utilizado en el tutorial          |
+| 04     | programa003.html     | Tercer código fuente utilizado en el tutorial           |
 
 PROCESO A SEGUIR:
 -----------------
