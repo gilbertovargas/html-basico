@@ -28,6 +28,7 @@ DOCUMENTOS:
 PROCESO A SEGUIR:
 -----------------
 1. Estudiar el Paper
-2. Realizar los talleres realizados en el Paper
-3. Elaborar los ejercicios propuestos
-4. La sustentación se hará de manera presencial, si las condiciones académicas lo permiten, o a través de la plataforma ZOOM
+2. Realizar y validar los talleres incluidos en el Paper: HTML - Básico.pdf
+3. Elaborar los ejercicios propuestos al final del documento
+4. Subir los documentos html elaborados como respuesta a los ejercicios, y subirlos al Github y tenerlos disponibles en la computadora para su correspondiente evaluación por parte del profesor
+4. La sustentación se hará de manera presencial, si las condiciones académicas lo permiten, o a través de la plataforma ZOOM. El enlace ZOOM se les enviará por correo, indicando la fecha y hora de la sustentación. Bastará con hacer clic sobre dicho enlace para que se abra la plataforma y se pueda realizar la evaluación virtual. Esta plataforma permite compartir la pantalla, tiene vídeo (el cual puede ocultarse) y audio para la gestión de la entrevista virtual. Se anunciará el mejor modo de trabajo, dependiendo de la evolución de la situación académica.
