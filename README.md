@@ -3,14 +3,14 @@
 
 #### *Materia base*: Introducción a la Informática. ####
 
-#### _Programa_ #### : Ingeniería de Sistemas y Computación.
+#### _Programa_: Ingeniería de Sistemas y Computación. ####
 
-_Facultad_: Ingenierías.
+#### _Facultad_: Ingenierías. ####
 
-_Universidad_: Tecnológica de Pereira.
+#### _Universidad_: Tecnológica de Pereira. ####
 
 DOCUMENTOS:
--------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 | Ítem   | Documento            | Descripción                                             |
 | ------ |:-------------------- |:------------------------------------------------------- |
 | 01     | HTML - Básico.pdf    | Tutorial que debe seguirse para desarrollar el tutorial |
