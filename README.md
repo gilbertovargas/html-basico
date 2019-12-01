@@ -23,12 +23,12 @@ DOCUMENTOS:
 10. avion-ficcion.gif   Archivos GIF (animado)
 11. baloncesto.gif
 
-| Ítem   | Centro        | Derecha |
-| ------ |:------------- | -------:|
-| 01     | columna       |   $1600 |
-| 02     | alineada      |     $12 |
-| 03     | al            |      $1 |
-| 04     | **centro**    |      $1 |
+| Ítem   | Centro               | Derecha |
+| ------ |:-------------------- | -------:|
+| 01     | HTML - Básico.pdf    |   $1600 |
+| 02     | programa001.html     |     $12 |
+| 03     | prograam002.html     |      $1 |
+| 04     | programa003.html     |      $1 |
 
 PROCESO A SEGUIR:
 -----------------
