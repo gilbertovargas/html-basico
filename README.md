@@ -27,7 +27,7 @@ DOCUMENTOS:
 
 PROCESO A SEGUIR:
 -----------------
-1. Estudiar el Paper
+1. Estudiar el Paper HTML - Basico.pdf. En los archivos presentes en el Github (los cuales pueden ser descargados) se encuentran todos los elementos requeridos para hacer la práctica propuesta
 2. Realizar y validar los talleres incluidos en el Paper: HTML - Básico.pdf
 3. Elaborar los ejercicios propuestos al final del documento
 4. Subir los documentos html elaborados como respuesta a los ejercicios, y subirlos al Github y tenerlos disponibles en la computadora para su correspondiente evaluación por parte del profesor
