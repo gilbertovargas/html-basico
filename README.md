@@ -12,7 +12,7 @@ Universidad: Tecnológica de Pereira.
 DOCUMENTOS:
 -------------------------------------------------------------------------------------------------
 1. HTML - Básico.pdf Este documento contiene el tutorial a seguir para desarrollar los talleres
-2. programa001.html <span style="margin-left:50px;">Primer código fuente utilizado en el tutorial</span>
+2. programa001.html <span style="margin-left:200px;">Primer código fuente utilizado en el tutorial</span>
 3. programa002.html			Segundo código fuente utilizado en el tutorial
 4. programa003.html			Tercer código fuente utilizado en el tutorial
 5. programa004.html			Cuarto código fuente utilizado en el tutorial
@@ -22,6 +22,22 @@ DOCUMENTOS:
 9. tenis.jpg
 10. avion-ficcion.gif   Archivos GIF (animado)
 11. baloncesto.gif
+
+columna 1 | columna 2   
+       ---|---    
+   dato 1 | dato 2    
+    dat 3 | dat 4   
+    
+columna 1	columna 2
+dato 1	dato 2
+dat 3	dat 4
+
+| Izquierda     | Centro        | Derecha |
+| ------------- |:-------------:| -------:|
+| col 1         | columna       |   $1600 |
+| _alineada_    | alineada      |     $12 |
+| a la          | al            |      $1 |
+| `izquierda`   | **centro**    |      $1 |
 
 PROCESO A SEGUIR:
 -----------------
