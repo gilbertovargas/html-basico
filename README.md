@@ -14,11 +14,8 @@ DOCUMENTOS:
 HTML - Básico.pdf Este documento contiene el tutorial a seguir para desarrollar los talleres
 
 programa001.html			Primer código fuente utilizado en el tutorial
-
 programa002.html			Segundo código fuente utilizado en el tutorial
-
 programa003.html			Tercer código fuente utilizado en el tutorial
-
 programa004.html			Cuarto código fuente utilizado en el tutorial
 
 chaqueta.jpg           Imágenes a ser desplegadas en las páginas web
