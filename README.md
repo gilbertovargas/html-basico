@@ -12,7 +12,7 @@ Universidad: Tecnológica de Pereira.
 DOCUMENTOS:
 -------------------------------------------------------------------------------------------------
 1. HTML - Básico.pdf Este documento contiene el tutorial a seguir para desarrollar los talleres
-2. programa001.html			Primer código fuente utilizado en el tutorial
+2. programa001.html <span style="margin-left:50px;">Primer código fuente utilizado en el tutorial</span>
 3. programa002.html			Segundo código fuente utilizado en el tutorial
 4. programa003.html			Tercer código fuente utilizado en el tutorial
 5. programa004.html			Cuarto código fuente utilizado en el tutorial
