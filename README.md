@@ -1,13 +1,13 @@
 # html-basico
-Taller Introductorio al lenguaje HTML. Tutorial Básico.
+### Taller Introductorio al lenguaje HTML. Tutorial Básico.
 
-Materia base: Introducción a la Informática.
+*Materia base*: Introducción a la Informática.
 
-Programa: Ingeniería de Sistemas y Computación.
+_Programa_: Ingeniería de Sistemas y Computación.
 
-Facultad: Ingenierías.
+_Facultad_: Ingenierías.
 
-Universidad: Tecnológica de Pereira.
+_Universidad_: Tecnológica de Pereira.
 
 DOCUMENTOS:
 -------------------------------------------------------------------------------------------------
