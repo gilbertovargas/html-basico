@@ -23,21 +23,12 @@ DOCUMENTOS:
 10. avion-ficcion.gif   Archivos GIF (animado)
 11. baloncesto.gif
 
-columna 1 | columna 2   
-       ---|---    
-   dato 1 | dato 2    
-    dat 3 | dat 4   
-    
-columna 1	columna 2
-dato 1	dato 2
-dat 3	dat 4
-
-| Izquierda     | Centro        | Derecha |
-| ------------- |:-------------:| -------:|
-| col 1         | columna       |   $1600 |
-| _alineada_    | alineada      |     $12 |
-| a la          | al            |      $1 |
-| `izquierda`   | **centro**    |      $1 |
+| Ítem   | Centro        | Derecha |
+| ------ |:-------------:| -------:|
+| 01     | columna       |   $1600 |
+| 02     | alineada      |     $12 |
+| 03     | al            |      $1 |
+| 04     | **centro**    |      $1 |
 
 PROCESO A SEGUIR:
 -----------------
