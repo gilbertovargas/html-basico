@@ -1,7 +1,7 @@
 # html-basico
 ### Taller Introductorio al lenguaje HTML. Tutorial Básico.
 
-*Materia base*: Introducción a la Informática.
+####*Materia base*: Introducción a la Informática.####
 
 _Programa_: Ingeniería de Sistemas y Computación.
 
@@ -29,6 +29,13 @@ DOCUMENTOS:
 | 02     | programa001.html     | Primer código fuente utilizado en el tutorial           |
 | 03     | prograam002.html     | Segundo código fuente utilizado en el tutorial          |
 | 04     | programa003.html     | Tercer código fuente utilizado en el tutorial           |
+| 05     | programa004.html     | Cuarto código fuente utilizado en el tutorial           |
+| 06     | chaqueta.jpg         | Tercer código fuente utilizado en el tutorial           |
+| 07     | balon-futbol.jpg     | Tercer código fuente utilizado en el tutorial           |
+| 08     | raquetas.jpg         | Tercer código fuente utilizado en el tutorial           |
+| 09     | tenis.jpg            | Tercer código fuente utilizado en el tutorial           |
+| 10     | avion-ficcion.gif    | Tercer código fuente utilizado en el tutorial           |
+| 11     | baloncesto.gif       | Tercer código fuente utilizado en el tutorial           |
 
 PROCESO A SEGUIR:
 -----------------
