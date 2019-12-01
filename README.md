@@ -24,7 +24,7 @@ DOCUMENTOS:
 11. baloncesto.gif
 
 | Ítem   | Centro        | Derecha |
-| ------ |:-------------:| -------:|
+| ------ |:------------- | -------:|
 | 01     | columna       |   $1600 |
 | 02     | alineada      |     $12 |
 | 03     | al            |      $1 |
