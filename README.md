@@ -3,7 +3,7 @@
 
 #### *Materia base*: Introducción a la Informática. ####
 
-#### _Programa_ ####: Ingeniería de Sistemas y Computación.
+#### _Programa_ #### : Ingeniería de Sistemas y Computación.
 
 _Facultad_: Ingenierías.
 
